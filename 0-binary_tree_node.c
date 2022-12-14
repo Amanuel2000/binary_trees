@@ -30,3 +30,4 @@ binary_tree_t *binary_tree_node(binary_tree_t *parent, int value)
 	/* return a pointer to the node */
 	return (newNode);
 }
+
