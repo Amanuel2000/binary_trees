@@ -10,21 +10,21 @@
  */
 binary_tree_t *binary_tree_node(binary_tree_t *parent, int value)
 {
-    binary_tree_t *firstNode;
+    binary_tree_t *newNode;
 
-    firstNode = (binary_tree_t *)malloc(sizeof(binary_tree_t));
+    newNode = (binary_tree_t *)malloc(sizeof(binary_tree_t));
 
-    if (firstNode == NULL)
+    if (newNode == NULL)
     {
 
         return (NULL);
     }
 
     /* */
-    firstNode->n = value;
-    firstNode->parent = parent;
-    firstNode->left = NULL;
-    firstNode->right = NULL;
+    newNode->n = value;
+    newNode->parent = parent;
+    newNode->left = NULL;
+    newNode->right = NULL;
 
-    return (firstNode);
+    return (newNode);
 }
