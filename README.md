@@ -27,6 +27,7 @@
 ### Author
 
 <b>Amanuel Fenta [Amanuel Fenta](https://github.com/amanuel2000)<b>
+
 <b>Anania Bahru [Anania Bahru](https://github.com/ananiabahru)<b>
 
 <P> &copy; 2022</p>
