@@ -9,7 +9,7 @@
 - What are the different traversal methods to go through a binary tree
 - What is a complete, a full, a perfect, a balanced binary tree
 
-## Requirements
+### Requirements
 
 - Allowed editors: vi, vim, emacs
 - All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
@@ -24,7 +24,7 @@
 - Don’t forget to push your header file
 - All your header files should be include guarded
 
-### Author
+#### Author
 
 <b>Amanuel Fenta [Amanuel Fenta](https://github.com/amanuel2000)<b>
 
